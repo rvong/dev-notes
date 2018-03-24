@@ -11,10 +11,45 @@ xrdp_mm_process_login_response: login failed
 ```
 Usually just means the wrong password for the account you're attempting to login with.
 
-- You choose your AWS availability zone (AZ) by choosing your Subnet group.
 - Install tightvncserver over the default vnc4server
 - sudo apt-get update && sudo apt-get upgrade
 - sudo apt-get install xfce4 xfce4-goodies nautilus (nautilus has recursive search GUI which Thunar does not. xfce4-goodies will install xfce4-terminal, etc.)
 - sudo apt-get install tightvncserver
 - sudo apt-get install xrdp
 - turn off screenservers etc. on startup
+
+## AWS
+- Create a snapshot of your ec2 volume before you screw everything up. This is the only way you can restore.
+- You choose your AWS availability zone (AZ) by choosing your Subnet group.
+- Create a Security Group for firewall-ing.
+
+## Remote Desktop Client to Check for Linux
+- NoMachine, FreeNX, X2Go
+- Splashtop
+- Teamviewer
+
+## Best Linux Distros
+- Manjaro XFCE
+- Manjaro KDE
+- pacman -S(yus) <arg>
+- Reasonable choice https://www.linuxliteos.com/
+- Elementary - Pretty and unusable.
+- Deepin - Pretty and unusable.
+
+## Distros to try
+- MX Linux using xfce4 https://mxlinux.org/
+
+## Strange
+- Solus https://solus-project.com/ Wacky pkg manager (eopkg)
+
+## Distro Notes
+- Ubuntu: Debian, apt-get/aptitude, PPAs for community packages
+- Manjaro: Arch, pacman, AUR for community packages
+- CentOS/RedHat/AmazonLinux: Fedora, yum, basically no real support community packages. OpenSUSE build service? Has nothing in it. Fedora repos? Probably nothing in it, but I didn't check.
+- Don't bother with anything else.
+- https://distrowatch.com/
+
+## WM Notes
+- XFCE - Stable, light, least bugs.
+- KDE - Nicest. Most buggy.
+- Cinnamon - Usable and buggy.
