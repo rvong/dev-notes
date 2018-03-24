@@ -37,7 +37,7 @@ Usually just means the wrong password for the account you're attempting to login
 - Deepin - Pretty and unusable.
 
 ## Distros to try
-- MX Linux using xfce4 https://mxlinux.org/
+- MX Linux using xfce4 https://mxlinux.org/ Seems like Manjaro, except with apt-get.
 
 ## Strange
 - Solus https://solus-project.com/ Wacky pkg manager (eopkg)
