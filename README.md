@@ -14,7 +14,7 @@ Usually just means the wrong password for the account you're attempting to login
 - Install tightvncserver over the default vnc4server
 - sudo apt-get update && sudo apt-get upgrade
 - sudo apt-get install xfce4 xfce4-goodies nautilus (nautilus has recursive search GUI which Thunar does not. xfce4-goodies will install xfce4-terminal, etc.)
-- sudo apt-get install tightvncserver
+- sudo apt-get install ~~tightvncserver~~ go to tigerVnc website and install the binary. tightvncserver doesn't support "Display" option because of missing RandR extension (check this with `Xrandr --version`)
 - sudo apt-get install xrdp
 - turn off screenservers etc. on startup
 
