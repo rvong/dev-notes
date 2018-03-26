@@ -1,5 +1,8 @@
 # dev-notes
 
+## Guides to Read
+- AWS OpEx Pillar (Design Principles from OpEx view) https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf
+
 ## Remote Desktop from Win/Mac to Linux
 - Bitvise client for Windows (it will accept your .pem file client key import, even though the UI dropdown list doesn't say so)
 - Remote Desktop client for Mac
