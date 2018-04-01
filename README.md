@@ -58,3 +58,7 @@ Usually just means the wrong password for the account you're attempting to login
 - XFCE - Stable, light, least bugs.
 - KDE - Nicest. Most buggy.
 - Cinnamon - Usable and buggy.
+
+## Web UI for Linux Admin
+- Use Webmin. Do not use Ajenti.
+- Xserver (i.e. Desktop envs like XFCE) cannot run on OpenVZ. Use real spaces like KVM.
