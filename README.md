@@ -62,3 +62,11 @@ Usually just means the wrong password for the account you're attempting to login
 ## Web UI for Linux Admin
 - Use Webmin. Do not use Ajenti.
 - Xserver (i.e. Desktop envs like XFCE) cannot run on OpenVZ. Use real spaces like KVM.
+
+# How to evaluate software libraries
+- GitHub Stars (there should be trends feature for this)
+- Number of significant contributors, contribution trends
+- Documentation. If it's really meant for public consumption (which means there's good support), there has to be good and accessible information.
+- Other activity. Blogs, talks, discussions, StackOverflow questions. Mentions, usages in production.
+- Netcraft analysis, Wappanalyzer, BuiltWith.com.
+- Dependency usage counts. Inclusions/imports.
