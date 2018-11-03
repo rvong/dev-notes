@@ -17,6 +17,7 @@
 - AWS OpEx Pillar (Design Principles from OpEx view) https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf
 - All AWS papers: https://aws.amazon.com/whitepapers/ This has organized, good info including updated overviews of AWS service and other guides related to architecture, security, costs, migrating to AWS, etc.
 - All AWS documentation: https://aws.amazon.com/documentation/ Consistently updated PDF documentation for AWS services.
+- Well architected framework https://aws.amazon.com/architecture/well-architected/
 
 ## Remote Desktop from Win/Mac to Linux
 - Bitvise client for Windows (it will accept your .pem file client key import, even though the UI dropdown list doesn't say so)
