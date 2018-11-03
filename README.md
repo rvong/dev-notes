@@ -1,5 +1,18 @@
 # dev-notes
 
+### DevBlogs
+- dzone.com - aggregates articles
+- news.ycombinator.com - basically reddit
+- hackernoon.com - people's opinions
+- highscalability.com - tech stacks
+- antirez.com - the redis guy
+- danluu.com - a guy named dan at microsoft
+- aws.amazon.com/blogs/aws - aws blog
+- lowendbox.com - sketchy web hosting run by children
+- steve-yegge.blogspot.com - a guy named steve
+- https://biguru.wordpress.com/ bus. intel
+- matillion.com/blog/ etl
+
 ## Guides to Read
 - AWS OpEx Pillar (Design Principles from OpEx view) https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf
 - All AWS papers: https://aws.amazon.com/whitepapers/ This has organized, good info including updated overviews of AWS service and other guides related to architecture, security, costs, migrating to AWS, etc.
